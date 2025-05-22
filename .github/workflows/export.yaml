@@ -9,7 +9,7 @@ jobs:
     if: ${{ always() }}
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/inti-cmnb/kicad7_auto:latest
+      image: ghcr.io/inti-cmnb/kicad9_auto:latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: jlc
-          path: "samd21pad*jlc.csv"
+          path: "*.csv"

@@ -2,3 +2,4 @@ samd21pad-backups/
 JLCPCB/
 *.csv
 *-bak
+fp-info-cache
