@@ -34,6 +34,6 @@ jobs:
       - name: Merge Artifacts
         uses: actions/upload-artifact/merge@v4
         with:
-          name: ${{ inputs.archive_name }}
+          name: wch32v305pad
           pattern: jlc-*
           delete-merged: true
