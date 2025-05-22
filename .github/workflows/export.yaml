@@ -28,7 +28,7 @@ jobs:
 
   merge:
     runs-on: ubuntu-latest
-    needs: build
+    needs: export
     name: Merge Output Artifacts
     steps:
       - name: Merge Artifacts
