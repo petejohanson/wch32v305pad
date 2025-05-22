@@ -3,3 +3,5 @@ JLCPCB/
 *.csv
 *-bak
 fp-info-cache
+*-backups/
+*.lck

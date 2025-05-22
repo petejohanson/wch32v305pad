@@ -4354,7 +4354,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C5186910"
+		(property "LCSC Part Number" "C1816"
 			(at 247.65 127 90)
 			(effects
 				(font
@@ -5451,7 +5451,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" "C3001293"
+		(property "LCSC Part Number" "C2843967"
 			(at 49.53 90.17 0)
 			(effects
 				(font
@@ -5973,7 +5973,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C5186910"
+		(property "LCSC Part Number" "C1816"
 			(at 247.65 121.92 90)
 			(effects
 				(font
@@ -7456,7 +7456,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" "C388858"
+		(property "LCSC Part Number" "C79175"
 			(at 149.86 152.4 0)
 			(effects
 				(font
@@ -7465,7 +7465,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SKQGAKE020"
+		(property "MPN" "EVQPUC02K"
 			(at 149.86 152.4 0)
 			(effects
 				(font
