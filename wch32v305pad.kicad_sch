@@ -4354,6 +4354,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C5186910"
+			(at 247.65 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "04481604-eece-4a33-91c2-5e569ac38fa0")
 		)
@@ -4812,7 +4821,7 @@
 		(at 116.84 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5028,7 +5037,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2ee20719-73ec-42d1-8514-a334e6738892")
@@ -5239,6 +5248,15 @@
 			)
 		)
 		(property "Description" "The CH32V303/5/7 is an connectivity MCUs based on 32-bit RISC-V core."
+			(at 245.11 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C5123443"
 			(at 245.11 81.28 0)
 			(effects
 				(font
@@ -5955,6 +5973,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C5186910"
+			(at 247.65 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "caa5a0dd-3969-4d97-826f-7819d4b718c8")
 		)
@@ -6086,7 +6113,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C27834"
 			(at 80.01 82.55 0)
 			(effects
 				(font
@@ -6171,7 +6198,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C27834"
 			(at 80.01 80.01 0)
 			(effects
 				(font
@@ -6425,7 +6452,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b561f7bf-74e5-4d1f-b6df-f63027bc9da1")
@@ -6841,6 +6868,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C160403"
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6b91f44-916c-44bc-99bb-16522501d3f3")
 		)
@@ -6864,7 +6900,7 @@
 		(at 116.84 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cf6413e1-8650-4f02-bae5-0daa4ca54764")
@@ -7055,6 +7091,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 217.17 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C160403"
 			(at 217.17 39.37 0)
 			(effects
 				(font
